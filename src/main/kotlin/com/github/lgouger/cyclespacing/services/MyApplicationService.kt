@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lgouger.cyclespacing.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lgouger.cyclespacing.MyBundle
 
 class MyApplicationService {
 
